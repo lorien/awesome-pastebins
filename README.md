@@ -1,0 +1,82 @@
+## Pastebins
+
+- https://dumpz.org
+- https://gist.github.com
+- https://pastebin.com
+- https://paste.debian.net
+- http://pastie.org/
+- https://commie.io
+- https://controlc.com (aka pasted.co, tny.cz)
+- https://dpaste.org
+- https://dpaste.com/
+- https://ghostbin.com
+- https://hastebin.com
+- https://justpaste.it (aka jpst.it)
+- https://justpaste.me
+- https://paste2.org
+- https://paste.mozilla.org
+- https://paste.ubuntu.com
+- https://privatebin.net
+- https://slexy.org
+- http://codepad.org
+- http://www.textsnip.com
+- https://quickhighlighter.com
+- https://pastefs.com/
+- https://ideone.com/
+- https://ivpaste.com/
+- http://paste.org.ru/
+- http://everfall.com/paste/
+- https://sebsauvage.net/paste/
+- https://www.heypasteit.com/
+- https://paste.centos.org/
+- https://paste.ofcode.org/
+- https://0bin.net/
+- https://apaste.info/
+- http://www.paste4btc.com/
+- https://paste.ee/
+- https://pasteall.org/
+- https://notes.io/
+- https://bitbin.it/
+- http://paste.rohitab.com/
+- http://paste.strictfp.com/
+- https://kpaste.net/
+- https://pastebin.osuosl.org/
+- https://fferen.kpaste.net/
+- https://eilios.kpaste.net/
+- https://rathena.kpaste.net/
+- https://p.ip.fi/
+- https://friendpaste.com/
+- https://snipplr.com/
+- http://jsitor.com/
+- https://codepen.io
+- https://jsfiddle.net/
+- https://dotnetfiddle.net/
+- http://phpfiddle.org/
+- https://ide.geeksforgeeks.org/
+- https://repl.it
+- https://codebeautify.org/
+- https://codeshare.io
+- https://trello.com
+- http://paste.opensuse.org/
+- http://paste.frubar.net/ (read only archive)
+- https://invent.kde.org/explore/snippets
+- http://pastebin.fr/
+- https://pst.klgrth.io/
+- https://termbin.com
+- https://paste.sh
+- https://write.as
+- https://defuse.ca/pastebin.htm
+- http://paste.pound-python.org/ (read only)
+- http://paste.lisp.org/ (read only)
+- http://paste.xinu.at/
+- https://cl1p.net/
+- http://sprunge.us/
+- https://www.pastebin.pt/
+- https://nopaste.me/
+- http://jsbin.com/
+
+## TOR Pastebins
+
+- http://nzxj65x32vh2fkhk.onion
+- http://zerobinqmdqd236y.onion
+- http://4m6omb3gmrmnwzxi.onion
