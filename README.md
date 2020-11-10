@@ -4,24 +4,6 @@ Sorted by alexa rank
 
 ## Common Pastebins
 
-- https://commie.io - 0
-- http://everfall.com/paste/ - 0
-- http://paste.strictfp.com/ - 0
-- https://kpaste.net/ - 0
-- https://fferen.kpaste.net/ - 0
-- https://eilios.kpaste.net/ - 0
-- https://rathena.kpaste.net/ - 0
-- http://paste.frubar.net/ (read only archive) - 0
-- https://pst.klgrth.io/ - 0
-- https://www.pastebin.pt/ - 0
-- https://nopaste.me/ - 0
-- https://99paste.com/ - 0
-- https://n0paste.tk/ - 0
-- https://pastecode.fr/ - 0
-- https://pastecode.ru/ - 0
-- https://www.paste.lv/ - 0
-- https://pastesqf.com/ - 0
-- https://tutpaste.com/ - 0
 - https://gist.github.com - 77
 - https://trello.com - 224
 - https://paste.mozilla.org - 227
@@ -95,6 +77,24 @@ Sorted by alexa rank
 - https://apaste.info/ - 6646762
 - https://quickhighlighter.com - 8936887
 - http://sprunge.us/ - 9830396
+- https://commie.io - None
+- http://everfall.com/paste/ - None
+- http://paste.strictfp.com/ - None
+- https://kpaste.net/ - None
+- https://fferen.kpaste.net/ - None
+- https://eilios.kpaste.net/ - None
+- https://rathena.kpaste.net/ - None
+- http://paste.frubar.net/ (read only archive) - None
+- https://pst.klgrth.io/ - None
+- https://www.pastebin.pt/ - None
+- https://nopaste.me/ - None
+- https://99paste.com/ - None
+- https://n0paste.tk/ - None
+- https://pastecode.fr/ - None
+- https://pastecode.ru/ - None
+- https://www.paste.lv/ - None
+- https://pastesqf.com/ - None
+- https://tutpaste.com/ - None
 
 
 ## TOR Pastebins
