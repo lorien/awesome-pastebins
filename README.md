@@ -74,6 +74,24 @@
 - https://www.pastebin.pt/
 - https://nopaste.me/
 - http://jsbin.com/
+- https://99paste.com/
+- http://cutapaste.net/
+- https://defuse.ca/pastebin.htm
+- https://www.geany.org/p/
+- https://icoder.uz/editor/index.html
+- https://pastebin.icoder.uz/
+- https://n0paste.tk/
+- https://paste.ofcode.org/
+- https://paste-bin.xyz/
+- https://pastecode.fr/
+- https://pastecode.io/
+- https://pastecode.ru/
+- https://pasteio.com/
+- https://paste.jp/
+- https://www.paste.lv/
+- https://pastesqf.com/
+- https://tutpaste.com/
+
 
 ## TOR Pastebins
 
