@@ -1,80 +1,9 @@
-## Pastebins
+# Pastebins
 
 Sorted by alexa rank
 
-- http://sprunge.us/ - 9830396
-- https://quickhighlighter.com - 8936887
-- https://apaste.info/ - 6646762
-- http://paste.org.ru/ - 6629336
-- http://paste.pound-python.org/ (read only) - 5860306
-- https://paste.debian.net - 5064853
-- http://paste.xinu.at/ - 4972694
-- https://paste-bin.xyz/ - 4571614
-- https://paste.jp/ - 4266493
-- https://dumpz.org - 3637656
-- https://paste.sh - 3314206
-- http://paste.lisp.org/ (read only) - 3284106
-- http://www.textsnip.com - 3131274
-- http://cutapaste.net/ - 1811946
-- https://p.ip.fi/ - 1425323
-- https://termbin.com - 1383869
-- http://jsitor.com/ - 1195110
-- https://pasteall.org/ - 1148803
-- http://pastebin.fr/ - 1086876
-- http://www.paste4btc.com/ - 913829
-- https://www.heypasteit.com/ - 710325
-- https://ghostbin.com - 631151
-- https://pasteio.com/ - 625806
-- https://pastecode.io/ - 575636
-- http://pastie.org/ - 565421
-- https://cl1p.net/ - 544976
-- https://icoder.uz/editor/index.html - 538293
-- https://pastebin.icoder.uz/ - 538293
-- https://dpaste.com/ - 536703
-- https://slexy.org - 522944
-- https://defuse.ca/pastebin.htm - 448536
-- https://defuse.ca/pastebin.htm - 448536
-- https://pastefs.com/ - 428441
-- https://friendpaste.com/ - 411979
-- https://dpaste.org - 395782
-- https://paste.ee/ - 370041
-- https://paste.ofcode.org/ - 327115
-- https://paste.ofcode.org/ - 327115
-- https://sebsauvage.net/paste/ - 278090
-- https://bitbin.it/ - 236318
-- https://0bin.net/ - 235755
-- https://www.geany.org/p/ - 218348
-- https://justpaste.me - 198982
-- https://privatebin.net - 189965
-- https://pastebin.osuosl.org/ - 183977
-- http://codepad.org - 130978
-- http://phpfiddle.org/ - 101266
-- https://ivpaste.com/ - 96776
-- https://hastebin.com - 84187
-- https://paste2.org - 68202
-- https://snipplr.com/ - 66655
-- https://notes.io/ - 64793
-- https://dotnetfiddle.net/ - 61604
-- http://paste.rohitab.com/ - 56264
-- http://paste.opensuse.org/ - 52415
-- https://codeshare.io - 52335
-- https://ideone.com/ - 35491
-- https://invent.kde.org/explore/snippets - 33659
-- https://write.as - 32260
-- https://controlc.com (aka pasted.co, tny.cz) - 28584
-- https://codebeautify.org/ - 15832
-- http://jsbin.com/ - 11549
-- https://justpaste.it (aka jpst.it) - 11330
-- https://paste.centos.org/ - 10106
-- https://jsfiddle.net/ - 8757
-- https://paste.ubuntu.com - 3180
-- https://repl.it - 2686
-- https://pastebin.com - 2359
-- https://codepen.io - 2048
-- https://ide.geeksforgeeks.org/ - 281
-- https://paste.mozilla.org - 227
-- https://trello.com - 224
-- https://gist.github.com - 77
+## Common Pastebins
+
 - https://commie.io - 0
 - http://everfall.com/paste/ - 0
 - http://paste.strictfp.com/ - 0
@@ -93,7 +22,79 @@ Sorted by alexa rank
 - https://www.paste.lv/ - 0
 - https://pastesqf.com/ - 0
 - https://tutpaste.com/ - 0
-
+- https://gist.github.com - 77
+- https://trello.com - 224
+- https://paste.mozilla.org - 227
+- https://ide.geeksforgeeks.org/ - 281
+- https://codepen.io - 2048
+- https://pastebin.com - 2359
+- https://repl.it - 2686
+- https://paste.ubuntu.com - 3180
+- https://jsfiddle.net/ - 8757
+- https://paste.centos.org/ - 10106
+- https://justpaste.it (aka jpst.it) - 11330
+- http://jsbin.com/ - 11549
+- https://codebeautify.org/ - 15832
+- https://controlc.com (aka pasted.co, tny.cz) - 28584
+- https://write.as - 32260
+- https://invent.kde.org/explore/snippets - 33659
+- https://ideone.com/ - 35491
+- https://codeshare.io - 52335
+- http://paste.opensuse.org/ - 52415
+- http://paste.rohitab.com/ - 56264
+- https://dotnetfiddle.net/ - 61604
+- https://notes.io/ - 64793
+- https://snipplr.com/ - 66655
+- https://paste2.org - 68202
+- https://hastebin.com - 84187
+- https://ivpaste.com/ - 96776
+- http://phpfiddle.org/ - 101266
+- http://codepad.org - 130978
+- https://pastebin.osuosl.org/ - 183977
+- https://privatebin.net - 189965
+- https://justpaste.me - 198982
+- https://www.geany.org/p/ - 218348
+- https://0bin.net/ - 235755
+- https://bitbin.it/ - 236318
+- https://sebsauvage.net/paste/ - 278090
+- https://paste.ofcode.org/ - 327115
+- https://paste.ofcode.org/ - 327115
+- https://paste.ee/ - 370041
+- https://dpaste.org - 395782
+- https://friendpaste.com/ - 411979
+- https://pastefs.com/ - 428441
+- https://defuse.ca/pastebin.htm - 448536
+- https://defuse.ca/pastebin.htm - 448536
+- https://slexy.org - 522944
+- https://dpaste.com/ - 536703
+- https://icoder.uz/editor/index.html - 538293
+- https://pastebin.icoder.uz/ - 538293
+- https://cl1p.net/ - 544976
+- http://pastie.org/ - 565421
+- https://pastecode.io/ - 575636
+- https://pasteio.com/ - 625806
+- https://ghostbin.com - 631151
+- https://www.heypasteit.com/ - 710325
+- http://www.paste4btc.com/ - 913829
+- http://pastebin.fr/ - 1086876
+- https://pasteall.org/ - 1148803
+- http://jsitor.com/ - 1195110
+- https://termbin.com - 1383869
+- https://p.ip.fi/ - 1425323
+- http://cutapaste.net/ - 1811946
+- http://www.textsnip.com - 3131274
+- http://paste.lisp.org/ (read only) - 3284106
+- https://paste.sh - 3314206
+- https://dumpz.org - 3637656
+- https://paste.jp/ - 4266493
+- https://paste-bin.xyz/ - 4571614
+- http://paste.xinu.at/ - 4972694
+- https://paste.debian.net - 5064853
+- http://paste.pound-python.org/ (read only) - 5860306
+- http://paste.org.ru/ - 6629336
+- https://apaste.info/ - 6646762
+- https://quickhighlighter.com - 8936887
+- http://sprunge.us/ - 9830396
 
 
 ## TOR Pastebins
