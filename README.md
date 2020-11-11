@@ -17,7 +17,6 @@ Sorted by alexa rank
 - http://jsbin.com/ - nothing - 11549
 - https://codebeautify.org/ - recent, search - 15832
 - https://controlc.com (aka pasted.co, tny.cz) - nothing - 28584
-- https://write.as - 32260
 - https://invent.kde.org/explore/snippets - 33659
 - https://ideone.com/ - 35491
 - https://codeshare.io - 52335
