@@ -11,7 +11,7 @@ Sorted by alexa rank
 - https://pastebin.com - stream - 2359
 - https://repl.it - nothing - 2686
 - https://paste.ubuntu.com - nothing - 3180
-- https://jsfiddle.net/ - 8757
+- https://jsfiddle.net/ - nothing - 8757
 - https://paste.centos.org/ - 10106
 - https://justpaste.it (aka jpst.it) - 11330
 - http://jsbin.com/ - 11549
