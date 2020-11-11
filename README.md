@@ -9,6 +9,7 @@ Sorted by alexa rank
 - https://ide.geeksforgeeks.org/ - nothing - 281
 - https://codepen.io - search - 2048
 - https://pastebin.com - recent - 2359
+- https://gitlab.com/explore/snippets - recent - 2660
 - https://repl.it - nothing - 2686
 - https://paste.ubuntu.com - nothing - 3180
 - https://jsfiddle.net/ - nothing - 8757
@@ -17,7 +18,7 @@ Sorted by alexa rank
 - http://jsbin.com/ - nothing - 11549
 - https://codebeautify.org/ - recent, search - 15832
 - https://controlc.com (aka pasted.co, tny.cz) - nothing - 28584
-- https://invent.kde.org/explore/snippets - 33659
+- https://invent.kde.org/explore/snippets - recent - 33659
 - https://ideone.com/ - 35491
 - https://codeshare.io - 52335
 - http://paste.opensuse.org/ - 52415
