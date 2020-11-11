@@ -4,10 +4,10 @@ Sorted by alexa rank
 
 ## Common Pastebins
 
-- https://gist.github.com - 77
-- https://paste.mozilla.org - 227
-- https://ide.geeksforgeeks.org/ - 281
-- https://codepen.io - 2048
+- https://gist.github.com - api, history, search - 77
+- https://paste.mozilla.org - nothing - 227
+- https://ide.geeksforgeeks.org/ - nothing - 281
+- https://codepen.io - search - 2048
 - https://pastebin.com - 2359
 - https://repl.it - 2686
 - https://paste.ubuntu.com - 3180
