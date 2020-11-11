@@ -15,7 +15,7 @@ Sorted by alexa rank
 - https://paste.centos.org/ - nothing - 10106
 - https://justpaste.it (aka jpst.it) - nothing - 11330
 - http://jsbin.com/ - nothing - 11549
-- https://codebeautify.org/ - recent - 15832
+- https://codebeautify.org/ - recent, search - 15832
 - https://controlc.com (aka pasted.co, tny.cz) - 28584
 - https://write.as - 32260
 - https://invent.kde.org/explore/snippets - 33659
