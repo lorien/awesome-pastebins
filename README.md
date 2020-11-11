@@ -94,6 +94,7 @@ Sorted by alexa rank
 - https://www.paste.lv/ - None
 - https://pastesqf.com/ - None
 - https://tutpaste.com/ - None
+- https://paste.scratchbook.ch/ - ? - ?
 
 
 ## TOR Pastebins
