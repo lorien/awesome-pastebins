@@ -4,18 +4,18 @@ Sorted by alexa rank
 
 ## Common Pastebins
 
-- https://gist.github.com - stream-api, search - 77
+- https://gist.github.com - recent-api, search - 77
 - https://paste.mozilla.org - nothing - 227
 - https://ide.geeksforgeeks.org/ - nothing - 281
 - https://codepen.io - search - 2048
-- https://pastebin.com - stream - 2359
+- https://pastebin.com - recent - 2359
 - https://repl.it - nothing - 2686
 - https://paste.ubuntu.com - nothing - 3180
 - https://jsfiddle.net/ - nothing - 8757
-- https://paste.centos.org/ - 10106
-- https://justpaste.it (aka jpst.it) - 11330
-- http://jsbin.com/ - 11549
-- https://codebeautify.org/ - 15832
+- https://paste.centos.org/ - nothing - 10106
+- https://justpaste.it (aka jpst.it) - nothing - 11330
+- http://jsbin.com/ - nothing - 11549
+- https://codebeautify.org/ - recent - 15832
 - https://controlc.com (aka pasted.co, tny.cz) - 28584
 - https://write.as - 32260
 - https://invent.kde.org/explore/snippets - 33659
