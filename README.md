@@ -2,7 +2,7 @@
 
 Items are formatted as URL - COMMENT - ALEXA
 
-COMMENT means features to enumerate recent/all pastes.
+COMMENT means features to enumerate pastes.
 
 ALEXA means alexa rank
 
