@@ -1,6 +1,13 @@
 # Pastebins
 
-Sorted by alexa rank
+Items are formatted as URL - COMMENT - ALEXA
+
+COMMENT means features to enumerate recent/all pastes.
+
+ALEXA means alexa rank
+
+Items are sorted by alexa rank
+
 
 ## Common Pastebins
 
