@@ -27,7 +27,7 @@ Items are sorted by alexa rank
 - https://controlc.com (aka pasted.co, tny.cz) - nothing - 28584
 - https://invent.kde.org/explore/snippets - recent - 33659
 - https://ideone.com/ - recent - 35491
-- https://codeshare.io - 52335
+- https://codeshare.io - nothing - 52335
 - http://paste.opensuse.org/ - 52415
 - http://paste.rohitab.com/ - 56264
 - https://dotnetfiddle.net/ - 61604
