@@ -28,7 +28,7 @@ Items are sorted by alexa rank
 - https://invent.kde.org/explore/snippets - recent - 33659
 - https://ideone.com/ - recent - 35491
 - https://codeshare.io - nothing - 52335
-- http://paste.opensuse.org/ - 52415
+- http://paste.opensuse.org/ - recent - 52415
 - http://paste.rohitab.com/ - 56264
 - https://dotnetfiddle.net/ - 61604
 - https://notes.io/ - 64793
