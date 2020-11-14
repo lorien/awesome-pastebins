@@ -29,7 +29,7 @@ Items are sorted by alexa rank
 - https://ideone.com/ - recent - 35491
 - https://codeshare.io - nothing - 52335
 - http://paste.opensuse.org/ - recent - 52415
-- https://dotnetfiddle.net/ - 61604
+- https://dotnetfiddle.net/ - recent, search - 61604
 - https://notes.io/ - 64793
 - https://snipplr.com/ - 66655
 - https://paste2.org - 68202
