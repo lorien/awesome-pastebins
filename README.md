@@ -35,8 +35,8 @@ Items are sorted by alexa rank
 - https://paste2.org - nothing - 68202
 - https://hastebin.com - nothing - 84187
 - https://ivpaste.com/ - nothing - 96776
-- http://phpfiddle.org/ - 101266
-- http://codepad.org - 130978
+- http://phpfiddle.org/ - nothing - 101266
+- http://codepad.org - recent - 130978
 - https://pastebin.osuosl.org/ - 183977
 - https://privatebin.net - 189965
 - https://justpaste.me - 198982
