@@ -31,10 +31,10 @@ Items are sorted by alexa rank
 - http://paste.opensuse.org/ - recent - 52415
 - https://dotnetfiddle.net/ - recent, search - 61604
 - https://notes.io/ - url-enumeration - 64793
-- https://snipplr.com/ - 66655
-- https://paste2.org - 68202
-- https://hastebin.com - 84187
-- https://ivpaste.com/ - 96776
+- https://snipplr.com/ - recent - 66655
+- https://paste2.org - nothing - 68202
+- https://hastebin.com - nothing - 84187
+- https://ivpaste.com/ - nothing - 96776
 - http://phpfiddle.org/ - 101266
 - http://codepad.org - 130978
 - https://pastebin.osuosl.org/ - 183977
