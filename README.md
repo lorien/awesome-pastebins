@@ -30,7 +30,7 @@ Items are sorted by alexa rank
 - https://codeshare.io - nothing - 52335
 - http://paste.opensuse.org/ - recent - 52415
 - https://dotnetfiddle.net/ - recent, search - 61604
-- https://notes.io/ - 64793
+- https://notes.io/ - url-enumeration - 64793
 - https://snipplr.com/ - 66655
 - https://paste2.org - 68202
 - https://hastebin.com - 84187
