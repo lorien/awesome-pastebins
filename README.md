@@ -37,11 +37,8 @@ Items are sorted by alexa rank
 - https://ivpaste.com/ - nothing - 96776
 - http://phpfiddle.org/ - nothing - 101266
 - http://codepad.org - recent - 130978
-- https://pastebin.osuosl.org/ - 183977
-- https://privatebin.net - 189965
-- https://justpaste.me - 198982
-- https://www.geany.org/p/ - 218348
-- https://0bin.net/ - 235755
+- https://justpaste.me - nothing - 198982
+- https://www.geany.org/p/ - recent - 218348
 - https://bitbin.it/ - 236318
 - https://sebsauvage.net/paste/ - 278090
 - https://paste.ofcode.org/ - 327115
@@ -102,6 +99,14 @@ Items are sorted by alexa rank
 - https://tutpaste.com/ - None
 - https://paste.scratchbook.ch/ - ? - ?
 
+## Client Side Encryption
+
+- https://privatebin.net - nothing - 189965
+- https://0bin.net/ - nothing - 235755
+
+## Only Spam
+
+- https://pastebin.osuosl.org/ - recent - 183977
 
 ## TOR Pastebins
 
