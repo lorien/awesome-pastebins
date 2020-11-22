@@ -1,10 +1,10 @@
 # Pastebins
 
-Items are formatted as URL - COMMENT - ALEXA
+Items are formatted as `URL - COMMENT - ALEXA`
 
-COMMENT means features to enumerate pastes.
+`COMMENT` means features to enumerate pastes.
 
-ALEXA means alexa rank
+`ALEXA` means alexa rank
 
 Items are sorted by alexa rank
 
@@ -39,14 +39,10 @@ Items are sorted by alexa rank
 - http://codepad.org - recent - 130978
 - https://justpaste.me - nothing - 198982
 - https://www.geany.org/p/ - recent - 218348
-- https://bitbin.it/ - 236318
-- https://sebsauvage.net/paste/ - 278090
-- https://paste.ofcode.org/ - 327115
-- https://paste.ofcode.org/ - 327115
-- https://paste.ee/ - 370041
-- https://dpaste.org - 395782
-- https://friendpaste.com/ - 411979
-- https://pastefs.com/ - 428441
+- https://paste.ofcode.org/ - nothing - 327115
+- https://paste.ee/ - nothing - 370041
+- https://dpaste.org - nothing - 395782
+- https://friendpaste.com/ - nothing - 411979
 - https://defuse.ca/pastebin.htm - 448536
 - https://defuse.ca/pastebin.htm - 448536
 - https://slexy.org - 522944
@@ -103,10 +99,13 @@ Items are sorted by alexa rank
 
 - https://privatebin.net - nothing - 189965
 - https://0bin.net/ - nothing - 235755
+- https://sebsauvage.net/paste/ - nothing - 278090
 
 ## Only Spam
 
 - https://pastebin.osuosl.org/ - recent - 183977
+- https://bitbin.it/ - recent - 236318
+- https://pastefs.com/ - recent - 428441
 
 ## TOR Pastebins
 
