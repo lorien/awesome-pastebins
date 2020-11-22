@@ -101,7 +101,7 @@ Items are sorted by alexa rank
 - https://0bin.net/ - nothing - 235755
 - https://sebsauvage.net/paste/ - nothing - 278090
 
-## Only Spam
+## Spammed
 
 - https://pastebin.osuosl.org/ - recent - 183977
 - https://bitbin.it/ - recent - 236318
