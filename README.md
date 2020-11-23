@@ -48,11 +48,9 @@ Items are sorted by alexa rank
 - https://pastebin.icoder.uz/ - SITE-DOWN - 538293
 - https://cl1p.net/ - nothing - 544976
 - http://pastie.org/ - nothing - 565421
-- https://pastecode.io/ - recent - 575636
-- https://pasteio.com/ - 625806
-- https://ghostbin.com - 631151
-- https://www.heypasteit.com/ - 710325
-- http://www.paste4btc.com/ - 913829
+- https://pastecode.io/ - recent,TODO - 575636
+- https://ghostbin.com - nothing - 631151
+- https://www.heypasteit.com/ - url-enumeration,TODO - 710325
 - http://pastebin.fr/ - 1086876
 - https://pasteall.org/ - 1148803
 - http://jsitor.com/ - 1195110
@@ -99,12 +97,14 @@ Items are sorted by alexa rank
 - https://0bin.net/ - nothing - 235755
 - https://sebsauvage.net/paste/ - nothing - 278090
 
-## Spammed
+## Drawn in Spam
 
 - https://pastebin.osuosl.org/ - recent - 183977
 - https://bitbin.it/ - recent - 236318
 - https://pastefs.com/ - recent - 428441
 - https://slexy.org - recent - 522944
+- https://pasteio.com/ - recent - 625806
+- http://www.paste4btc.com/ - recent - 913829
 
 ## TOR Pastebins
 
