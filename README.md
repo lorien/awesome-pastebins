@@ -43,15 +43,12 @@ Items are sorted by alexa rank
 - https://paste.ee/ - nothing - 370041
 - https://dpaste.org - nothing - 395782
 - https://friendpaste.com/ - nothing - 411979
-- https://defuse.ca/pastebin.htm - 448536
-- https://defuse.ca/pastebin.htm - 448536
-- https://slexy.org - 522944
-- https://dpaste.com/ - 536703
-- https://icoder.uz/editor/index.html - 538293
-- https://pastebin.icoder.uz/ - 538293
-- https://cl1p.net/ - 544976
-- http://pastie.org/ - 565421
-- https://pastecode.io/ - 575636
+- https://defuse.ca/pastebin.htm - nothing - 448536
+- https://dpaste.com/ - nothing - 536703
+- https://pastebin.icoder.uz/ - SITE-DOWN - 538293
+- https://cl1p.net/ - nothing - 544976
+- http://pastie.org/ - nothing - 565421
+- https://pastecode.io/ - recent - 575636
 - https://pasteio.com/ - 625806
 - https://ghostbin.com - 631151
 - https://www.heypasteit.com/ - 710325
@@ -94,6 +91,7 @@ Items are sorted by alexa rank
 - https://pastesqf.com/ - None
 - https://tutpaste.com/ - None
 - https://paste.scratchbook.ch/ - ? - ?
+- https://bpa.st - nothing - ?
 
 ## Client Side Encryption
 
@@ -106,6 +104,7 @@ Items are sorted by alexa rank
 - https://pastebin.osuosl.org/ - recent - 183977
 - https://bitbin.it/ - recent - 236318
 - https://pastefs.com/ - recent - 428441
+- https://slexy.org - recent - 522944
 
 ## TOR Pastebins
 
