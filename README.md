@@ -1,56 +1,52 @@
 # Pastebins
 
-Items are formatted as `URL - COMMENT - ALEXA`
+Items are annotated with alexa rank and sorted by rank in descending order.
 
-`COMMENT` means features to enumerate pastes.
-
-`ALEXA` means alexa rank
-
-Items are sorted by alexa rank
+There is a google custom search engine to search other these pastebin sites https://pastebinsearch.github.io
 
 
 ## Common Pastebins
 
-- https://gist.github.com - recent-api, search - 77
-- https://paste.mozilla.org - nothing - 227
-- https://ide.geeksforgeeks.org/ - nothing - 281
-- https://codepen.io - search - 2048
-- https://pastebin.com - recent - 2359
-- https://gitlab.com/explore/snippets - recent - 2660
-- https://repl.it - nothing - 2686
-- https://paste.ubuntu.com - nothing - 3180
-- https://jsfiddle.net/ - nothing - 8757
-- https://paste.centos.org/ - nothing - 10106
-- https://justpaste.it (aka jpst.it) - nothing - 11330
-- http://jsbin.com/ - nothing - 11549
-- https://codebeautify.org/ - recent, search - 15832
-- https://controlc.com (aka pasted.co, tny.cz) - nothing - 28584
-- https://invent.kde.org/explore/snippets - recent - 33659
-- https://ideone.com/ - recent - 35491
-- https://codeshare.io - nothing - 52335
-- http://paste.opensuse.org/ - recent - 52415
-- https://dotnetfiddle.net/ - recent, search - 61604
-- https://notes.io/ - url-enumeration - 64793
-- https://snipplr.com/ - recent - 66655
-- https://paste2.org - nothing - 68202
-- https://hastebin.com - nothing - 84187
-- https://ivpaste.com/ - nothing - 96776
-- http://phpfiddle.org/ - nothing - 101266
-- http://codepad.org - recent - 130978
-- https://justpaste.me - nothing - 198982
-- https://www.geany.org/p/ - recent - 218348
-- https://paste.ofcode.org/ - nothing - 327115
-- https://paste.ee/ - nothing - 370041
-- https://dpaste.org - nothing - 395782
-- https://friendpaste.com/ - nothing - 411979
-- https://defuse.ca/pastebin.htm - nothing - 448536
-- https://dpaste.com/ - nothing - 536703
-- https://pastebin.icoder.uz/ - SITE-DOWN - 538293
-- https://cl1p.net/ - nothing - 544976
-- http://pastie.org/ - nothing - 565421
-- https://pastecode.io/ - recent,TODO - 575636
-- https://ghostbin.com - nothing - 631151
-- https://www.heypasteit.com/ - url-enumeration,TODO - 710325
+- https://gist.github.com - 77
+- https://paste.mozilla.org - 227
+- https://ide.geeksforgeeks.org/ - 281
+- https://codepen.io - 2048
+- https://pastebin.com - 2359
+- https://gitlab.com/explore/snippets - 2660
+- https://repl.it - 2686
+- https://paste.ubuntu.com - 3180
+- https://jsfiddle.net/ - 8757
+- https://paste.centos.org/ - 10106
+- https://justpaste.it (aka jpst.it) - 11330
+- http://jsbin.com/ - 11549
+- https://codebeautify.org/ - 15832
+- https://controlc.com (aka pasted.co, tny.cz) - 28584
+- https://invent.kde.org/explore/snippets - 33659
+- https://ideone.com/ - 35491
+- https://codeshare.io - 52335
+- http://paste.opensuse.org/ - 52415
+- https://dotnetfiddle.net/ - 61604
+- https://notes.io/ - 64793
+- https://snipplr.com/ - 66655
+- https://paste2.org - 68202
+- https://hastebin.com - 84187
+- https://ivpaste.com/ - 96776
+- http://phpfiddle.org/ - 101266
+- http://codepad.org - 130978
+- https://justpaste.me - 198982
+- https://www.geany.org/p/ - 218348
+- https://paste.ofcode.org/ - 327115
+- https://paste.ee/ - 370041
+- https://dpaste.org - 395782
+- https://friendpaste.com/ - 411979
+- https://defuse.ca/pastebin.htm - 448536
+- https://dpaste.com/ - 536703
+- https://pastebin.icoder.uz/ - 538293
+- https://cl1p.net/ - 544976
+- http://pastie.org/ - 565421
+- https://pastecode.io/ - 575636
+- https://ghostbin.com - 631151
+- https://www.heypasteit.com/ - 710325
 - http://pastebin.fr/ - 1086876
 - https://pasteall.org/ - 1148803
 - http://jsitor.com/ - 1195110
@@ -88,8 +84,9 @@ Items are sorted by alexa rank
 - https://www.paste.lv/ - None
 - https://pastesqf.com/ - None
 - https://tutpaste.com/ - None
-- https://paste.scratchbook.ch/ - ? - ?
-- https://bpa.st - nothing - ?
+- https://paste.scratchbook.ch/ - ?
+- https://bpa.st - ?
+
 
 ## Client Side Encryption
 
