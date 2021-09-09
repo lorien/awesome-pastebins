@@ -1,4 +1,4 @@
-# Pastebins
+# Pastebin Sites
 
 Items are annotated with alexa rank and sorted by rank in descending order.
 
