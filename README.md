@@ -86,6 +86,13 @@ There is a google custom search engine to search other these pastebin sites http
 - https://tutpaste.com/ - None
 - https://paste.scratchbook.ch/ - ?
 - https://bpa.st - ?
+- http://vpaste.net - ?
+- http://paste.rohitab.com - ?
+- https://pastelink.net - ?
+- https://pastebin.osuosl.org - ?
+- https://justpaste.it - ?
+- https://controlc.com - ?
+- https://bitbin.it - ?
 
 
 ## Client Side Encryption
@@ -108,3 +115,7 @@ There is a google custom search engine to search other these pastebin sites http
 - http://nzxj65x32vh2fkhk.onion - 0
 - http://zerobinqmdqd236y.onion - 0
 - http://4m6omb3gmrmnwzxi.onion - 0
+
+## Discontinued Pastebins (Content Removed)
+
+- https://slexy.org
