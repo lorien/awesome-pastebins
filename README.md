@@ -15,14 +15,18 @@ There is a google custom search engine to search other these pastebin sites http
 - https://gitlab.com/explore/snippets - 2660
 - https://repl.it - 2686
 - https://paste.ubuntu.com - 3180
+- https://justpaste.it - 4799
 - https://jsfiddle.net/ - 8757
 - https://paste.centos.org/ - 10106
 - https://justpaste.it (aka jpst.it) - 11330
 - http://jsbin.com/ - 11549
+- https://pastelink.net - 13334
 - https://codebeautify.org/ - 15832
+- https://controlc.com - 20680
 - https://controlc.com (aka pasted.co, tny.cz) - 28584
 - https://invent.kde.org/explore/snippets - 33659
 - https://ideone.com/ - 35491
+- http://paste.rohitab.com - 39314
 - https://codeshare.io - 52335
 - http://paste.opensuse.org/ - 52415
 - https://dotnetfiddle.net/ - 61604
@@ -34,7 +38,9 @@ There is a google custom search engine to search other these pastebin sites http
 - http://phpfiddle.org/ - 101266
 - http://codepad.org - 130978
 - https://justpaste.me - 198982
+- https://pastebin.osuosl.org - 200117
 - https://www.geany.org/p/ - 218348
+- https://bpa.st - 252013
 - https://paste.ofcode.org/ - 327115
 - https://paste.ee/ - 370041
 - https://dpaste.org - 395782
@@ -61,6 +67,7 @@ There is a google custom search engine to search other these pastebin sites http
 - https://paste-bin.xyz/ - 4571614
 - http://paste.xinu.at/ - 4972694
 - https://paste.debian.net - 5064853
+- http://vpaste.net - 5816659
 - http://paste.pound-python.org/ (read only) - 5860306
 - http://paste.org.ru/ - 6629336
 - https://apaste.info/ - 6646762
@@ -84,15 +91,8 @@ There is a google custom search engine to search other these pastebin sites http
 - https://www.paste.lv/ - None
 - https://pastesqf.com/ - None
 - https://tutpaste.com/ - None
-- https://paste.scratchbook.ch/ - ?
-- https://bpa.st - ?
-- http://vpaste.net - ?
-- http://paste.rohitab.com - ?
-- https://pastelink.net - ?
-- https://pastebin.osuosl.org - ?
-- https://justpaste.it - ?
-- https://controlc.com - ?
-- https://bitbin.it - ?
+- https://paste.scratchbook.ch/ - None
+- https://bitbin.it - None
 
 
 ## Client Side Encryption
