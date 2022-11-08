@@ -59,7 +59,6 @@ There is a google custom search engine to search other these pastebin sites http
 - https://termbin.com - 1383869
 - https://p.ip.fi/ - 1425323
 - http://cutapaste.net/ - 1811946
-- http://www.textsnip.com - 3131274
 - http://paste.lisp.org/ (read only) - 3284106
 - https://paste.sh - 3314206
 - https://dumpz.org - 3637656
