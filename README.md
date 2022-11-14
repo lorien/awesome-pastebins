@@ -118,3 +118,4 @@ There is a google custom search engine to search other these pastebin sites http
 ## Discontinued Pastebins (Content Removed)
 
 - https://slexy.org
+- https://textsnip.com
