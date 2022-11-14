@@ -96,18 +96,18 @@ There is a google custom search engine to search other these pastebin sites http
 
 ## Client Side Encryption
 
-- https://privatebin.net - nothing - 189965
-- https://0bin.net/ - nothing - 235755
-- https://sebsauvage.net/paste/ - nothing - 278090
+- https://privatebin.net - 189965
+- https://0bin.net/ - 235755
+- https://sebsauvage.net/paste/ - 278090
 
 ## Drawn in Spam
 
-- https://pastebin.osuosl.org/ - recent - 183977
-- https://bitbin.it/ - recent - 236318
-- https://pastefs.com/ - recent - 428441
-- https://slexy.org - recent - 522944
-- https://pasteio.com/ - recent - 625806
-- http://www.paste4btc.com/ - recent - 913829
+- https://pastebin.osuosl.org/ - 183977
+- https://bitbin.it/ - 236318
+- https://pastefs.com/ - 428441
+- https://slexy.org - 522944
+- https://pasteio.com/ - 625806
+- http://www.paste4btc.com/ - 913829
 
 ## TOR Pastebins
 
