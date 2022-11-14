@@ -1,6 +1,12 @@
 # Pastebin Sites
 
+This is just a list of pastebin sites.
+
 There is a google custom search engine to search other these pastebin sites https://pastebinsearch.github.io
+
+## How to add new website to the list
+
+Make a pull request. I do not accept add requests in form of github issue. I accept only pull requests.
 
 
 ## Common Pastebins
