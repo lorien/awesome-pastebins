@@ -96,6 +96,7 @@ Make a pull request. I do not accept add requests in form of github issue. I acc
 - https://tutpaste.com/
 - https://paste.scratchbook.ch/
 - https://bitbin.it
+- https://pastebin.fi
 
 ## Drawn in Spam
 
