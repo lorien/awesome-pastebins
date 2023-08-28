@@ -97,7 +97,7 @@ Make a pull request. I do not accept add requests in form of github issue. I acc
 - https://paste.scratchbook.ch/
 - https://bitbin.it
 - https://pastebin.fi
-- https://pastething.com
+- https://share.pastething.com
 
 ## Drawn in Spam
 
