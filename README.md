@@ -98,6 +98,7 @@ Make a pull request. I do not accept add requests in form of github issue. I acc
 - https://bitbin.it
 - https://pastebin.fi
 - https://pastething.com
+- https://nekobin.com
 
 ## Drawn in Spam
 
