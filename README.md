@@ -2,10 +2,7 @@
 
 Just a list of pastebin sites.
 
-## How to add new website to the list
-
-Make a pull request. I do not accept add requests in form of github issue. I accept only pull requests.
-
+Make a pull request if you want to add new site. I do not accept requests in form of github issue. I accept only pull requests.
 
 ## Common Pastebins
 
