@@ -92,7 +92,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://paste.scratchbook.ch/
 - https://bitbin.it
 - https://pastebin.fi
-- https://pastething.com
 - https://nekobin.com
 
 ## Drawn in Spam
