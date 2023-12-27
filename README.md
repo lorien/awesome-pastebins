@@ -5,7 +5,7 @@ Just a list of pastebin sites.
 Make a pull request if you want to add new site. I do not accept requests in form of github issue. I accept only pull requests.
 
 ## Common Pastebins
-
+- http://pasting.rf.gd/
 - https://gist.github.com
 - https://paste.mozilla.org
 - https://ide.geeksforgeeks.org/
