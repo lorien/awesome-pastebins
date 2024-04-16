@@ -93,6 +93,8 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://bitbin.it
 - https://pastebin.fi
 - https://nekobin.com
+- http://pastebin.ai/
+- https://pastebin.ai/
 
 ## Drawn in Spam
 
