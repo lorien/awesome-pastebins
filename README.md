@@ -54,7 +54,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://termbin.com
 - https://p.ip.fi/
 - http://cutapaste.net/
-- http://paste.lisp.org/ (read only)
 - https://paste.sh
 - https://dumpz.org
 - https://paste.jp/
@@ -112,3 +111,4 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://pastebin.icoder.uz
 - https://pst.klgrth.io
 - https://www.heypasteit.com
+- http://paste.lisp.org
