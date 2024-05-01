@@ -44,7 +44,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://friendpaste.com/
 - https://defuse.ca/pastebin.htm
 - https://dpaste.com/
-- https://pastebin.icoder.uz/
 - https://cl1p.net/
 - http://pastie.org/
 - https://pastecode.io/
@@ -112,3 +111,4 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://slexy.org
 - https://textsnip.com
 - http://phpfiddle.org/
+- https://pastebin.icoder.uz/
