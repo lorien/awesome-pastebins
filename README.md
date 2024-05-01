@@ -76,7 +76,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://eilios.kpaste.net/
 - https://rathena.kpaste.net/
 - http://paste.frubar.net/ (read only archive)
-- https://pst.klgrth.io/
 - https://www.pastebin.pt/
 - https://nopaste.me/
 - https://99paste.com/
@@ -110,5 +109,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 
 - https://slexy.org
 - https://textsnip.com
-- http://phpfiddle.org/
-- https://pastebin.icoder.uz/
+- http://phpfiddle.org
+- https://pastebin.icoder.uz
+- https://pst.klgrth.io
