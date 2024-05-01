@@ -1,10 +1,4 @@
-# Pastebin Sites
-
-Just a list of pastebin sites.
-
-Make a pull request if you want to add new site. I do not accept requests in form of github issue. I accept only pull requests.
-
-## Common Pastebins
+## Live Pastebins
 
 - https://gist.github.com
 - https://paste.mozilla.org
