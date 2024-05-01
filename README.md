@@ -75,12 +75,8 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://bitbin.it
 - https://pastebin.fi
 - https://nekobin.com
-
-## Drawn in Spam
-
-- https://pastebin.osuosl.org/
-- https://pasteio.com/
-- http://www.paste4btc.com/
+- https://pasteio.com
+- http://www.paste4btc.com
 
 ## TOR Pastebins
 
