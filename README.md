@@ -68,9 +68,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - http://everfall.com/paste/
 - http://paste.strictfp.com/
 - https://kpaste.net/
-- https://fferen.kpaste.net/
-- https://eilios.kpaste.net/
-- https://rathena.kpaste.net/
 - http://paste.frubar.net/ (read only archive)
 - https://www.pastebin.pt/
 - https://nopaste.me/
