@@ -49,7 +49,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://pastecode.io/
 - https://ghostbin.com
 - http://pastebin.fr/
-- https://pasteall.org/
 - http://jsitor.com/
 - https://termbin.com
 - https://p.ip.fi/
@@ -112,3 +111,4 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://pst.klgrth.io
 - https://www.heypasteit.com
 - http://paste.lisp.org
+- https://pasteall.org
