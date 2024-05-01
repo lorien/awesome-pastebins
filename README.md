@@ -73,7 +73,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://99paste.com/
 - https://n0paste.tk/
 - https://pastecode.fr/
-- https://pastecode.ru/
 - https://www.paste.lv/
 - https://pastesqf.com/
 - https://tutpaste.com/
@@ -106,6 +105,7 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://www.heypasteit.com
 - http://paste.lisp.org
 - https://pasteall.org
-- https://paste.scratchbook.ch/
+- https://paste.scratchbook.ch
 - https://dumpz.org
-- http://paste.strictfp.com/
+- http://paste.strictfp.com
+- https://pastecode.ru
