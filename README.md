@@ -66,7 +66,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - http://sprunge.us/
 - https://commie.io
 - http://everfall.com/paste/
-- http://paste.strictfp.com/
 - https://kpaste.net/
 - http://paste.frubar.net/ (read only archive)
 - https://www.pastebin.pt/
@@ -109,3 +108,4 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - http://paste.lisp.org
 - https://pasteall.org
 - https://dumpz.org
+- http://paste.strictfp.com/
