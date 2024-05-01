@@ -54,7 +54,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://p.ip.fi/
 - http://cutapaste.net/
 - https://paste.sh
-- https://dumpz.org
 - https://paste.jp/
 - https://paste-bin.xyz/
 - http://paste.xinu.at/
@@ -112,3 +111,4 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://www.heypasteit.com
 - http://paste.lisp.org
 - https://pasteall.org
+- https://dumpz.org
