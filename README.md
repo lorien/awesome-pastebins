@@ -70,7 +70,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - http://paste.frubar.net/ (read only archive)
 - https://www.pastebin.pt/
 - https://nopaste.me/
-- https://99paste.com/
 - https://n0paste.tk/
 - https://www.paste.lv/
 - https://tutpaste.com/
@@ -107,5 +106,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://dumpz.org
 - http://paste.strictfp.com
 - https://pastecode.ru
-- https://pastesqf.com/
+- https://pastesqf.com
 - https://pastecode.fr
+- https://99paste.com
