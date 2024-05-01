@@ -33,7 +33,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://paste2.org
 - https://hastebin.com
 - https://ivpaste.com/
-- http://phpfiddle.org/
 - http://codepad.org
 - https://justpaste.me
 - https://pastebin.osuosl.org
@@ -112,3 +111,4 @@ Make a pull request if you want to add new site. I do not accept requests in for
 
 - https://slexy.org
 - https://textsnip.com
+- http://phpfiddle.org/
