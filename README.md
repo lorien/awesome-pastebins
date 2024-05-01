@@ -79,9 +79,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 ## Drawn in Spam
 
 - https://pastebin.osuosl.org/
-- https://bitbin.it/
-- https://pastefs.com/
-- https://slexy.org
 - https://pasteio.com/
 - http://www.paste4btc.com/
 
@@ -108,4 +105,5 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - https://pastesqf.com
 - https://pastecode.fr
 - https://99paste.com
-- https://nopaste.me/
+- https://nopaste.me
+- https://pastefs.com
