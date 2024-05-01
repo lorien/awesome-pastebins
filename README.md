@@ -21,7 +21,6 @@ Make a pull request if you want to add new site. I do not accept requests in for
 - http://jsbin.com/
 - https://pastelink.net
 - https://codebeautify.org/
-- https://controlc.com
 - https://controlc.com (aka pasted.co, tny.cz)
 - https://invent.kde.org/explore/snippets
 - https://ideone.com/
