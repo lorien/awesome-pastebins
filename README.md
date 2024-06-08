@@ -1,4 +1,6 @@
-## Public Pastebins (allow guests to write)
+## Public Pastebins
+
+Non-authenticated users can create pastes.
 
 - https://paste.mozilla.org
 - https://ide.geeksforgeeks.org
@@ -58,7 +60,9 @@
 - https://www.paste4btc.com
 - https://pastebin.ai
 
-## Authenticated Pastebins (require authentication to write)
+## Authenticated Pastebins
+
+Only authenticated users can create pastes.
 
 - https://gist.github.com
 - https://gitlab.com/explore/snippets
@@ -69,16 +73,20 @@
 - https://snipplr.com
 - http://paste.xinu.at
 
-## Temporarily Down Pastebins (no access at moment of check)
+## Read-only pastebins
 
-- http://codepad.org
-- https://ghostbin.com (redirects to https://pst.klgrth.io which is down)
-
-## Read-only pastebins (nobody can write anymore)
+Nobody can create pastes.
 
 - https://www.geany.org/p/
 - http://paste.pound-python.org
 - http://paste.frubar.net/
+
+## Temporarily Down Pastebins
+
+Network access problem at the moment of check.
+
+- http://codepad.org
+- https://ghostbin.com (redirects to https://pst.klgrth.io which is down)
 
 ## TOR Pastebins
 
@@ -86,7 +94,9 @@
 - http://zerobinqmdqd236y.onion
 - http://4m6omb3gmrmnwzxi.onion
 
-## Discontinued Pastebins (Content Removed)
+## Discontinued Pastebins
+
+Pastebin services is stopped. All pastes are removed.
 
 - https://slexy.org
 - https://textsnip.com
