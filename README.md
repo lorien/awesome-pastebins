@@ -1,4 +1,4 @@
-## Pastebins (guests can write)
+## Pastebins (allow guests to write)
 
 - https://paste.mozilla.org
 - https://ide.geeksforgeeks.org
@@ -11,14 +11,12 @@
 - https://pastelink.net
 - https://codebeautify.org
 - https://controlc.com (aka pasted.co, tny.cz)
-- https://invent.kde.org/explore/snippets
 - https://ideone.com
 - http://paste.rohitab.com
 - https://codeshare.io
 - http://paste.opensuse.org
 - https://dotnetfiddle.net
 - https://notes.io
-- https://snipplr.com
 - https://paste2.org
 - https://hastebin.com
 - https://ivpaste.com
@@ -45,7 +43,6 @@
 - https://paste.sh
 - https://paste.jp
 - https://paste-bin.xyz
-- http://paste.xinu.at
 - https://paste.debian.net
 - http://vpaste.net
 - http://paste.pound-python.org (read only)
@@ -75,6 +72,9 @@
 - https://codepen.io
 - https://repl.it
 - https://paste.ubuntu.com
+- https://invent.kde.org/explore/snippets
+- https://snipplr.com
+- http://paste.xinu.at
 
 ## TOR Pastebins
 
