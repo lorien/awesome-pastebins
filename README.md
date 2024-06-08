@@ -73,7 +73,7 @@ Only authenticated users can create pastes.
 - https://snipplr.com
 - http://paste.xinu.at
 
-## Read-only pastebins
+## Read-only Pastebins
 
 Nobody can create pastes.
 
