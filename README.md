@@ -3,7 +3,6 @@
 - https://paste.mozilla.org
 - https://ide.geeksforgeeks.org
 - https://pastebin.com
-- https://repl.it
 - https://paste.ubuntu.com
 - https://justpaste.it
 - https://jsfiddle.net
@@ -75,6 +74,7 @@
 - https://gist.github.com
 - https://gitlab.com/explore/snippets
 - https://codepen.io
+- https://repl.it
 
 ## TOR Pastebins
 
