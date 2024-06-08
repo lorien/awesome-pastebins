@@ -20,7 +20,6 @@
 - https://paste2.org
 - https://hastebin.com
 - https://ivpaste.com
-- http://codepad.org
 - https://justpaste.me
 - https://pastebin.osuosl.org
 - https://bpa.st
@@ -33,7 +32,6 @@
 - https://cl1p.net
 - http://pastie.org
 - https://pastecode.io
-- https://ghostbin.com
 - http://pastebin.fr
 - http://jsitor.com
 - https://termbin.com
@@ -45,9 +43,7 @@
 - https://paste.debian.net
 - http://vpaste.net
 - http://paste.org.ru
-- https://apaste.info
 - https://quickhighlighter.com
-- http://sprunge.us
 - https://commie.io
 - http://everfall.com/paste/
 - https://kpaste.net
@@ -72,6 +68,11 @@
 - https://invent.kde.org/explore/snippets
 - https://snipplr.com
 - http://paste.xinu.at
+
+## Temporarily Down Pastebins (no access at moment of check)
+
+- http://codepad.org
+- https://ghostbin.com (redirects to https://pst.klgrth.io which is down)
 
 ## Read-only pastebins (nobody can write anymore)
 
@@ -99,7 +100,9 @@
 - https://dumpz.org
 - http://paste.strictfp.com
 - https://pastecode.ru
+- https://apaste.info
 - https://pastesqf.com
+- http://sprunge.us
 - https://pastecode.fr
 - https://99paste.com
 - https://nopaste.me
