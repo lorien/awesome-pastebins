@@ -1,4 +1,4 @@
-## Pastebins (allow guests to write)
+## Public Pastebins (allow guests to write)
 
 - https://paste.mozilla.org
 - https://ide.geeksforgeeks.org
@@ -23,7 +23,6 @@
 - http://codepad.org
 - https://justpaste.me
 - https://pastebin.osuosl.org
-- https://www.geany.org/p/
 - https://bpa.st
 - https://paste.ofcode.org
 - https://paste.ee
@@ -45,7 +44,6 @@
 - https://paste-bin.xyz
 - https://paste.debian.net
 - http://vpaste.net
-- http://paste.pound-python.org (read only)
 - http://paste.org.ru
 - https://apaste.info
 - https://quickhighlighter.com
@@ -53,7 +51,6 @@
 - https://commie.io
 - http://everfall.com/paste/
 - https://kpaste.net
-- http://paste.frubar.net/ (read only archive)
 - https://www.pastebin.pt
 - https://n0paste.tk
 - https://www.paste.lv
@@ -65,7 +62,7 @@
 - https://www.paste4btc.com
 - https://pastebin.ai
 
-## Pastebins (require authentication to write)
+## Authenticated Pastebins (require authentication to write)
 
 - https://gist.github.com
 - https://gitlab.com/explore/snippets
@@ -75,6 +72,12 @@
 - https://invent.kde.org/explore/snippets
 - https://snipplr.com
 - http://paste.xinu.at
+
+## Read-only pastebins (nobody can write anymore)
+
+- https://www.geany.org/p/
+- http://paste.pound-python.org
+- http://paste.frubar.net/
 
 ## TOR Pastebins
 
