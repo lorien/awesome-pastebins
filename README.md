@@ -1,10 +1,8 @@
 ## Pastebins (guests can write)
 
-- https://gist.github.com
 - https://paste.mozilla.org
 - https://ide.geeksforgeeks.org
 - https://pastebin.com
-- https://gitlab.com/explore/snippets
 - https://repl.it
 - https://paste.ubuntu.com
 - https://justpaste.it
@@ -74,6 +72,8 @@
 
 ## Pastebins (require authentication to write)
 
+- https://gist.github.com
+- https://gitlab.com/explore/snippets
 - https://codepen.io
 
 ## TOR Pastebins
