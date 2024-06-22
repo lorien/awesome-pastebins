@@ -85,13 +85,6 @@ Nobody can create pastes.
 - http://paste.pound-python.org
 - http://paste.frubar.net/
 
-## Temporarily Down Pastebins
-
-Network access problem at the moment of check.
-
-- http://codepad.org
-- https://ghostbin.com (redirects to https://pst.klgrth.io which is down)
-
 ## TOR Pastebins
 
 - http://nzxj65x32vh2fkhk.onion
@@ -121,3 +114,5 @@ Pastebin services is stopped. All pastes are removed.
 - https://99paste.com
 - https://nopaste.me
 - https://pastefs.com
+- http://codepad.org
+- https://ghostbin.com
