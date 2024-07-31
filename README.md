@@ -63,6 +63,7 @@ Non-authenticated users can create pastes.
 - https://pasteio.com
 - https://www.paste4btc.com
 - https://pastebin.ai
+- https://paste.js.org
 
 ## Authenticated Pastebins
 
