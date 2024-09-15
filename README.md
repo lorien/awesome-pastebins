@@ -2,6 +2,8 @@
 
 This document contains list of pastebin services organized by categories.
 
+This list contains only unencrypted pastebins. In other words, you can scrape some data from pastebins in this list.
+
 ## Public Pastebins
 
 Non-authenticated users can create pastes.
