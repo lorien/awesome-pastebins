@@ -12,61 +12,61 @@ Non-authenticated users can create pastes.
 |:-------------------------------|:-----------------------------------------------:|:--------------------------------------------------------------|
 | https://paste.mozilla.org      | raw, code highlight, line number link, one time | [powered by dpaste](https://github.com/DarrenOfficial/dpaste) |
 | https://pastebin.com           | raw, code highlight, one time, api              |                                                               |
-| https://justpaste.it           |                                                 |                                                               |
+| https://justpaste.it           | n/a                                             |                                                               |
 | https://jsfiddle.net           | interpreter                                     |                                                               |
 | https://paste.centos.org       | raw, code highlight, one time, api              |                                                               |
-| https://justpaste.it           |                                                 | (aka jpst.it)                                                 |
-| http://jsbin.com               |                                                 |                                                               |
-| https://pastelink.net          |                                                 |                                                               |
-| https://codebeautify.org       |                                                 |                                                               |
-| https://controlc.com           |                                                 | (aka pasted.co, tny.cz)                                       |
-| https://ideone.com             |                                                 |                                                               |
-| http://paste.rohitab.com       |                                                 |                                                               |
-| https://codeshare.io           |                                                 |                                                               |
-| http://paste.opensuse.org      |                                                 |                                                               |
-| https://dotnetfiddle.net       |                                                 |                                                               |
-| https://notes.io               |                                                 |                                                               |
-| https://paste2.org             |                                                 |                                                               |
-| https://hastebin.com           |                                                 |                                                               |
-| https://ivpaste.com            |                                                 |                                                               |
-| https://justpaste.me           |                                                 |                                                               |
-| https://pastebin.osuosl.org    |                                                 |                                                               |
-| https://bpa.st                 |                                                 |                                                               |
-| https://paste.ofcode.org       |                                                 |                                                               |
-| https://paste.ee               |                                                 |                                                               |
+| https://justpaste.it           | n/a                                             | (aka jpst.it)                                                 |
+| http://jsbin.com               | n/a                                             |                                                               |
+| https://pastelink.net          | n/a                                             |                                                               |
+| https://codebeautify.org       | n/a                                             |                                                               |
+| https://controlc.com           | n/a                                             | (aka pasted.co, tny.cz)                                       |
+| https://ideone.com             | n/a                                             |                                                               |
+| http://paste.rohitab.com       | n/a                                             |                                                               |
+| https://codeshare.io           | n/a                                             |                                                               |
+| http://paste.opensuse.org      | n/a                                             |                                                               |
+| https://dotnetfiddle.net       | n/a                                             |                                                               |
+| https://notes.io               | n/a                                             |                                                               |
+| https://paste2.org             | n/a                                             |                                                               |
+| https://hastebin.com           | n/a                                             |                                                               |
+| https://ivpaste.com            | n/a                                             |                                                               |
+| https://justpaste.me           | n/a                                             |                                                               |
+| https://pastebin.osuosl.org    | n/a                                             |                                                               |
+| https://bpa.st                 | n/a                                             |                                                               |
+| https://paste.ofcode.org       | n/a                                             |                                                               |
+| https://paste.ee               | n/a                                             |                                                               |
 | https://dpaste.org             | raw, code highlight, line number link, one time | [powered by dpaste](https://github.com/DarrenOfficial/dpaste) |
-| https://friendpaste.com        |                                                 |                                                               |
-| https://defuse.ca/pastebin.htm |                                                 |                                                               |
+| https://friendpaste.com        | n/a                                             |                                                               |
+| https://defuse.ca/pastebin.htm | n/a                                             |                                                               |
 | https://dpaste.com             | raw, code highlight, line number link, api      |                                                               |
-| https://cl1p.net               |                                                 |                                                               |
-| http://pastie.org              |                                                 |                                                               |
-| https://pastecode.io           |                                                 |                                                               |
-| http://pastebin.fr             |                                                 |                                                               |
-| http://jsitor.com              |                                                 |                                                               |
-| https://termbin.com            |                                                 |                                                               |
-| https://p.ip.fi                |                                                 |                                                               |
-| http://cutapaste.net           |                                                 |                                                               |
-| https://paste.sh               |                                                 |                                                               |
-| https://paste.jp               |                                                 |                                                               |
-| https://paste-bin.xyz          |                                                 |                                                               |
-| https://paste.debian.net       |                                                 |                                                               |
-| http://vpaste.net              |                                                 |                                                               |
-| http://paste.org.ru            |                                                 |                                                               |
-| https://quickhighlighter.com   |                                                 |                                                               |
-| https://commie.io              |                                                 |                                                               |
-| http://everfall.com/paste/     |                                                 |                                                               |
-| https://kpaste.net             |                                                 |                                                               |
-| https://www.pastebin.pt        |                                                 |                                                               |
-| https://n0paste.tk             |                                                 |                                                               |
-| https://www.paste.lv           |                                                 |                                                               |
-| https://tutpaste.com           |                                                 |                                                               |
-| https://bitbin.it              |                                                 |                                                               |
-| https://pastebin.fi            |                                                 |                                                               |
-| https://nekobin.com            |                                                 |                                                               |
-| https://pasteio.com            |                                                 |                                                               |
-| https://www.paste4btc.com      |                                                 |                                                               |
-| https://pastebin.ai            |                                                 |                                                               |
-| https://paste.js.org           |                                                 |                                                               |
+| https://cl1p.net               | n/a                                             |                                                               |
+| http://pastie.org              | n/a                                             |                                                               |
+| https://pastecode.io           | n/a                                             |                                                               |
+| http://pastebin.fr             | n/a                                             |                                                               |
+| http://jsitor.com              | n/a                                             |                                                               |
+| https://termbin.com            | n/a                                             |                                                               |
+| https://p.ip.fi                | n/a                                             |                                                               |
+| http://cutapaste.net           | n/a                                             |                                                               |
+| https://paste.sh               | n/a                                             |                                                               |
+| https://paste.jp               | n/a                                             |                                                               |
+| https://paste-bin.xyz          | n/a                                             |                                                               |
+| https://paste.debian.net       | n/a                                             |                                                               |
+| http://vpaste.net              | n/a                                             |                                                               |
+| http://paste.org.ru            | n/a                                             |                                                               |
+| https://quickhighlighter.com   | n/a                                             |                                                               |
+| https://commie.io              | n/a                                             |                                                               |
+| http://everfall.com/paste/     | n/a                                             |                                                               |
+| https://kpaste.net             | n/a                                             |                                                               |
+| https://www.pastebin.pt        | n/a                                             |                                                               |
+| https://n0paste.tk             | n/a                                             |                                                               |
+| https://www.paste.lv           | n/a                                             |                                                               |
+| https://tutpaste.com           | n/a                                             |                                                               |
+| https://bitbin.it              | n/a                                             |                                                               |
+| https://pastebin.fi            | n/a                                             |                                                               |
+| https://nekobin.com            | n/a                                             |                                                               |
+| https://pasteio.com            | n/a                                             |                                                               |
+| https://www.paste4btc.com      | n/a                                             |                                                               |
+| https://pastebin.ai            | n/a                                             |                                                               |
+| https://paste.js.org           | n/a                                             |                                                               |
 
 ## Authenticated Pastebins
 
