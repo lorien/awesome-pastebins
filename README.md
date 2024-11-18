@@ -14,11 +14,11 @@ Non-authenticated users can create pastes.
 - https://justpaste.it
 - https://jsfiddle.net
 - https://paste.centos.org
-- https://justpaste.it (aka jpst.it)
+- https://justpaste.it (alias: jpst.it)
 - http://jsbin.com
 - https://pastelink.net
 - https://codebeautify.org
-- https://controlc.com (aka pasted.co, tny.cz)
+- https://controlc.com (alias: pasted.co, tny.cz)
 - https://ideone.com
 - http://paste.rohitab.com
 - https://codeshare.io
@@ -63,7 +63,7 @@ Non-authenticated users can create pastes.
 - https://nekobin.com
 - https://pasteio.com
 - https://www.paste4btc.com
-- https://pastebin.ai
+- https://pastejustit.com (alias: pastebin.ai)
 - https://paste.js.org
 
 ## Authenticated Pastebins
