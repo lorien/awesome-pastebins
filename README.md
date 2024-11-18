@@ -64,6 +64,7 @@ Non-authenticated users can create pastes.
 - https://www.paste4btc.com
 - https://pastejustit.com (alias: pastebin.ai)
 - https://paste.js.org
+- https://pastefs.com
 
 ## Authenticated Pastebins
 
@@ -114,7 +115,6 @@ Pastebin services is stopped. All pastes are removed.
 - https://pastecode.fr
 - https://99paste.com
 - https://nopaste.me
-- https://pastefs.com
 - https://www.paste.lv
 - http://codepad.org
 - https://ghostbin.com
