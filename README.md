@@ -87,15 +87,9 @@ Nobody can create pastes.
 - http://paste.pound-python.org
 - http://paste.frubar.net/
 
-## TOR Pastebins
-
-- http://nzxj65x32vh2fkhk.onion
-- http://zerobinqmdqd236y.onion
-- http://4m6omb3gmrmnwzxi.onion
-
 ## Discontinued Pastebins
 
-Pastebin services is stopped. All pastes are removed.
+Dead pastebin services. All pastes are removed.
 
 - https://slexy.org
 - https://textsnip.com
