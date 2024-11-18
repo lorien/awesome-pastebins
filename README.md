@@ -57,7 +57,6 @@ Non-authenticated users can create pastes.
 - https://kpaste.net
 - https://www.pastebin.pt
 - https://n0paste.tk
-- https://www.paste.lv
 - https://tutpaste.com
 - https://bitbin.it
 - https://pastebin.fi
@@ -117,5 +116,6 @@ Pastebin services is stopped. All pastes are removed.
 - https://99paste.com
 - https://nopaste.me
 - https://pastefs.com
+- https://www.paste.lv
 - http://codepad.org
 - https://ghostbin.com
