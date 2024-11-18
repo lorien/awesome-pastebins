@@ -61,7 +61,6 @@ Non-authenticated users can create pastes.
 - https://bitbin.it
 - https://pastebin.fi
 - https://nekobin.com
-- https://pasteio.com
 - https://www.paste4btc.com
 - https://pastejustit.com (alias: pastebin.ai)
 - https://paste.js.org
@@ -119,3 +118,4 @@ Pastebin services is stopped. All pastes are removed.
 - https://www.paste.lv
 - http://codepad.org
 - https://ghostbin.com
+- https://pasteio.com
