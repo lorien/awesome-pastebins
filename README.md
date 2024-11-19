@@ -65,6 +65,7 @@ Non-authenticated users can create pastes.
 - https://pastejustit.com (alias: pastebin.ai)
 - https://paste.js.org
 - https://pastefs.com
+- https://paste.myst.rs (alias: paste.ax)
 
 ## Authenticated Pastebins
 
