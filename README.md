@@ -68,7 +68,8 @@ Non-authenticated users can create pastes.
 - https://paste.mod.gg/
 - https://paste.myst.rs (alias: paste.ax)
 - https://beanpaste.fun
-  
+- https://rentry.co/
+
 ## Authenticated Pastebins
 
 Only authenticated users can create pastes.
