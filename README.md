@@ -69,6 +69,9 @@ Non-authenticated users can create pastes.
 - https://paste.myst.rs (alias: paste.ax)
 - https://beanpaste.fun
 - https://rentry.co/
+- https://lesma.eu
+- https://paste.monster
+- https://snippet.host
 
 ## Authenticated Pastebins
 
