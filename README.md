@@ -71,6 +71,7 @@ Non-authenticated users can create pastes.
 - https://lesma.eu
 - https://paste.monster
 - https://snippet.host
+- https://pastesio.com (alias: pastes.io)
 
 ## Authenticated Pastebins
 
