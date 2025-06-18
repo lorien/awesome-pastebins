@@ -8,6 +8,7 @@ This list contains only unencrypted pastebins. In other words, you can scrape so
 
 Non-authenticated users can create pastes.
 
+- https://paste.zluqe.org
 - https://ide.geeksforgeeks.org
 - https://pastebin.com
 - https://justpaste.it
