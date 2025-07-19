@@ -72,6 +72,7 @@ Non-authenticated users can create pastes.
 - https://paste.monster
 - https://snippet.host
 - https://pastesio.com (alias: pastes.io)
+- https://xi.pe
 
 ## Authenticated Pastebins
 
