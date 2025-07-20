@@ -8,7 +8,6 @@ This list contains only unencrypted pastebins. In other words, you can scrape so
 
 Non-authenticated users can create pastes.
 
-- https://ide.geeksforgeeks.org
 - https://pastebin.com
 - https://justpaste.it
 - https://jsfiddle.net
@@ -122,3 +121,4 @@ Dead pastebin services. All pastes are removed.
 - https://ghostbin.com
 - https://pasteio.com
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
+- https://ide.geeksforgeeks.org
