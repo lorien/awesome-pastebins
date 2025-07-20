@@ -38,7 +38,7 @@ Non-authenticated users can create pastes.
 - https://cl1p.net
 - http://pastie.org
 - https://pastecode.io
-- http://pastebin.fr
+- https://pastebin.fr
 - http://jsitor.com
 - https://termbin.com
 - https://p.ip.fi
