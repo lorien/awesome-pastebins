@@ -62,7 +62,6 @@ Non-authenticated users can create pastes.
 - https://www.paste4btc.com
 - https://pastejustit.com (alias: pastebin.ai)
 - https://paste.js.org
-- https://pastefs.com
 - https://paste.mod.gg/
 - https://paste.myst.rs (alias: paste.ax)
 - https://beanpaste.fun
@@ -122,3 +121,4 @@ Dead pastebin services. All pastes are removed.
 - https://pasteio.com
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
 - https://ide.geeksforgeeks.org
+- https://pastefs.com
