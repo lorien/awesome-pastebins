@@ -47,7 +47,6 @@ Non-authenticated users can create pastes.
 - https://paste.jp
 - https://paste-bin.xyz
 - https://paste.debian.net
-- http://vpaste.net
 - http://paste.org.ru
 - https://quickhighlighter.com
 - https://commie.io
@@ -56,7 +55,6 @@ Non-authenticated users can create pastes.
 - https://www.pastebin.pt
 - https://n0paste.tk
 - https://tutpaste.com
-- https://bitbin.it
 - https://pastebin.fi
 - https://nekobin.com
 - https://www.paste4btc.com
@@ -123,3 +121,5 @@ Dead pastebin services. All pastes are removed.
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
+- https://bitbin.it
+- http://vpaste.net
