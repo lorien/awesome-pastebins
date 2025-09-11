@@ -72,6 +72,7 @@ Non-authenticated users can create pastes.
 - https://pastesio.com (alias: pastes.io)
 - https://xi.pe
 - https://macrobin.co
+- https://fragbin.com
 
 ## Authenticated Pastebins
 
