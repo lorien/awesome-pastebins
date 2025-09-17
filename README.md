@@ -56,7 +56,6 @@ Non-authenticated users can create pastes.
 - https://www.pastebin.pt
 - https://n0paste.tk
 - https://tutpaste.com
-- https://bitbin.it
 - https://pastebin.fi
 - https://nekobin.com
 - https://www.paste4btc.com
@@ -94,6 +93,7 @@ Nobody can create pastes.
 - https://www.geany.org/p/
 - http://paste.pound-python.org
 - http://paste.frubar.net/
+- https://bitbin.it
 
 ## Discontinued Pastebins
 
