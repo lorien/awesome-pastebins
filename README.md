@@ -72,6 +72,7 @@ Non-authenticated users can create pastes.
 - https://xi.pe
 - https://macrobin.co
 - https://fragbin.com
+- https://gistpad.com
 
 ## Authenticated Pastebins
 
