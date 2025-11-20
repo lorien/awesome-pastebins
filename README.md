@@ -72,7 +72,7 @@ Non-authenticated users can create pastes.
 - https://xi.pe
 - https://macrobin.co
 - https://fragbin.com
-- httpsL//daobin.lol
+- https://daobin.lol
 
 ## Authenticated Pastebins
 
