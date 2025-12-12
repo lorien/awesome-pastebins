@@ -73,6 +73,7 @@ Non-authenticated users can create pastes.
 - https://macrobin.co
 - https://fragbin.com
 - https://gistpad.com
+- https://crow.ac
 
 ## Authenticated Pastebins
 
