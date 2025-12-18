@@ -59,7 +59,7 @@ Non-authenticated users can create pastes.
 - https://pastebin.fi
 - https://nekobin.com
 - https://www.paste4btc.com
-- https://pastes.io
+- https://pastes.io (alias: pastebin.ai, pastesio.com, pastejustit.com)
 - https://paste.js.org
 - https://paste.mod.gg/
 - https://paste.myst.rs (alias: paste.ax)
