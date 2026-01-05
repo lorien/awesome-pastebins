@@ -3,126 +3,110 @@
 This document contains list of pastebin services organized by categories.The list contains only unencrypted pastebins. In other words, you can scrape some data from pastebins in this list.
 
 You are welcome to join Telegram chat groups to talk about web scraping and data processing: [@grablab](https://t.me/grablab) (English), [@grablab_ru](https://t.me/grablab_ru) (Russian).
+‎
+| URL | Aliases | Read Only | Is Down? |
+| :--- | :--- | :--- | :--- |
+| http://cutapaste.net |  | No | No |
+| http://everfall.com/paste/ |  | No | No |
+| http://jsbin.com |  | No | No |
+| http://jsitor.com |  | No | No |
+| http://paste.opensuse.org |  | No | No |
+| http://paste.org.ru |  | No | No |
+| http://paste.xinu.at |  | No | No |
+| http://pastie.org |  | No | No |
+| https://beanpaste.fun |  | No | No |
+| https://bpa.st |  | No | No |
+| https://cl1p.net |  | No | No |
+| https://codebeautify.org |  | No | No |
+| https://codepen.io |  | No | No |
+| https://codeshare.io |  | No | No |
+| https://commie.io |  | No | No |
+| https://controlc.com | pasted.co, tny.cz | No | No |
+| https://defuse.ca/pastebin.htm |  | No | No |
+| https://dotnetfiddle.net |  | No | No |
+| https://dpaste.com |  | No | No |
+| https://dpaste.org |  | No | No |
+| https://fragbin.com |  | No | No |
+| https://friendpaste.com |  | No | No |
+| https://gist.github.com |  | No | No |
+| https://gistpad.com |  | No | No |
+| https://gitlab.com/explore/snippets |  | No | No |
+| https://hastebin.com |  | No | No |
+| https://hastebin.dev |  | No | No |
+| https://ideone.com |  | No | No |
+| https://invent.kde.org/explore/snippets |  | No | No |
+| https://ivpaste.com |  | No | No |
+| https://jsfiddle.net |  | No | No |
+| https://justpaste.it | jpst.it | No | No |
+| https://justpaste.me |  | No | No |
+| https://kpaste.net |  | No | No |
+| https://lesma.eu |  | No | No |
+| https://n0paste.tk |  | No | No |
+| https://nekobin.com |  | No | No |
+| https://notes.io |  | No | No |
+| https://p.ip.fi |  | No | No |
+| https://paste-bin.xyz |  | No | No |
+| https://paste.centos.org |  | No | No |
+| https://paste.debian.net |  | No | No |
+| https://paste.ee |  | No | No |
+| https://paste.jp |  | No | No |
+| https://paste.js.org |  | No | No |
+| https://paste.mod.gg/ |  | No | No |
+| https://paste.monster |  | No | No |
+| https://paste.myst.rs | paste.ax | No | No |
+| https://paste.ofcode.org |  | No | No |
+| https://paste.sh |  | No | No |
+| https://paste.ubuntu.com |  | No | No |
+| https://paste2.org |  | No | No |
+| https://pastebin.com |  | No | No |
+| https://pastebin.fi |  | No | No |
+| https://pastebin.fr |  | No | No |
+| https://pastebin.osuosl.org |  | No | No |
+| https://pastecode.io |  | No | No |
+| https://pastelink.net |  | No | No |
+| https://pastes.io | pastebin.ai, pastesio.com, pastejustit.com | No | No |
+| https://quickhighlighter.com |  | No | No |
+| https://rentry.co/ |  | No | No |
+| https://repl.it |  | No | No |
+| https://snippet.host |  | No | No |
+| https://snipplr.com |  | No | No |
+| https://termbin.com |  | No | No |
+| https://tutpaste.com |  | No | No |
+| https://www.pastebin.pt |  | No | No |
+| https://xi.pe |  | No | No |
+| https://crow.ac |  | No | Yes |
+| https://macrobin.co |  | No | Yes |
+| http://paste.rohitab.com |  | No | Yes |
+| http://vpaste.net |  | No | Yes |
+| https://www.paste4btc.com |  | No | Yes |
+| https://bitbin.it |  | Yes | No |
+| http://paste.frubar.net/ |  | Yes | No |
+| http://paste.pound-python.org |  | Yes | No |
+| https://www.geany.org/p/ |  | Yes | No |
+| https://99paste.com |  | No | Yes |
+| https://apaste.info |  | No | Yes |
+| http://codepad.org |  | No | Yes |
+| https://dumpz.org |  | No | Yes |
+| https://ghostbin.com |  | No | Yes |
+| https://ide.geeksforgeeks.org |  | No | Yes |
+| https://nopaste.me |  | No | Yes |
+| http://paste.lisp.org |  | No | Yes |
+| https://paste.mozilla.org | pastebin.mozilla.org | No | Yes |
+| https://paste.scratchbook.ch |  | No | Yes |
+| http://paste.strictfp.com |  | No | Yes |
+| https://pasteall.org |  | No | Yes |
+| https://pastebin.icoder.uz |  | No | Yes |
+| https://pastecode.fr |  | No | Yes |
+| https://pastecode.ru |  | No | Yes |
+| https://pastefs.com |  | No | Yes |
+| https://pasteio.com |  | No | Yes |
+| https://pastesqf.com |  | No | Yes |
+| http://phpfiddle.org |  | No | Yes |
+| https://pst.klgrth.io |  | No | Yes |
+| https://slexy.org |  | No | Yes |
+| http://sprunge.us |  | No | Yes |
+| https://textsnip.com |  | No | Yes |
+| https://www.heypasteit.com |  | No | Yes |
+| https://www.paste.lv |  | No | Yes |
 
-## Public Pastebins
-
-Non-authenticated users can create pastes.
-
-- https://pastebin.com
-- https://justpaste.it
-- https://jsfiddle.net
-- https://paste.centos.org
-- https://justpaste.it (alias: jpst.it)
-- http://jsbin.com
-- https://pastelink.net
-- https://codebeautify.org
-- https://controlc.com (alias: pasted.co, tny.cz)
-- https://ideone.com
-- http://paste.rohitab.com
-- https://codeshare.io
-- http://paste.opensuse.org
-- https://dotnetfiddle.net
-- https://notes.io
-- https://paste2.org
-- https://hastebin.com
-- https://ivpaste.com
-- https://justpaste.me
-- https://pastebin.osuosl.org
-- https://bpa.st
-- https://paste.ofcode.org
-- https://paste.ee
-- https://dpaste.org
-- https://friendpaste.com
-- https://defuse.ca/pastebin.htm
-- https://dpaste.com
-- https://cl1p.net
-- http://pastie.org
-- https://pastecode.io
-- https://pastebin.fr
-- http://jsitor.com
-- https://termbin.com
-- https://p.ip.fi
-- http://cutapaste.net
-- https://paste.sh
-- https://paste.jp
-- https://paste-bin.xyz
-- https://paste.debian.net
-- http://vpaste.net
-- http://paste.org.ru
-- https://quickhighlighter.com
-- https://commie.io
-- http://everfall.com/paste/
-- https://kpaste.net
-- https://www.pastebin.pt
-- https://n0paste.tk
-- https://tutpaste.com
-- https://pastebin.fi
-- https://nekobin.com
-- https://www.paste4btc.com
-- https://pastes.io (alias: pastebin.ai, pastesio.com, pastejustit.com)
-- https://paste.js.org
-- https://paste.mod.gg/
-- https://paste.myst.rs (alias: paste.ax)
-- https://beanpaste.fun
-- https://rentry.co/
-- https://lesma.eu
-- https://paste.monster
-- https://snippet.host
-- https://xi.pe
-- https://macrobin.co
-- https://fragbin.com
-- https://gistpad.com
-- https://crow.ac
-- https://hastebin.dev
-
-## Authenticated Pastebins
-
-Only authenticated users can create pastes.
-
-- https://gist.github.com
-- https://gitlab.com/explore/snippets
-- https://codepen.io
-- https://repl.it
-- https://paste.ubuntu.com
-- https://invent.kde.org/explore/snippets
-- https://snipplr.com
-- http://paste.xinu.at
-
-## Read-only Pastebins
-
-Nobody can create pastes.
-
-- https://www.geany.org/p/
-- http://paste.pound-python.org
-- http://paste.frubar.net/
-- https://bitbin.it
-
-## Discontinued Pastebins
-
-Dead pastebin services. All pastes are removed.
-
-- https://slexy.org
-- https://textsnip.com
-- http://phpfiddle.org
-- https://pastebin.icoder.uz
-- https://pst.klgrth.io
-- https://www.heypasteit.com
-- http://paste.lisp.org
-- https://pasteall.org
-- https://paste.scratchbook.ch
-- https://dumpz.org
-- http://paste.strictfp.com
-- https://pastecode.ru
-- https://apaste.info
-- https://pastesqf.com
-- http://sprunge.us
-- https://pastecode.fr
-- https://99paste.com
-- https://nopaste.me
-- https://www.paste.lv
-- http://codepad.org
-- https://ghostbin.com
-- https://pasteio.com
-- https://paste.mozilla.org (alias: pastebin.mozilla.org)
-- https://ide.geeksforgeeks.org
-- https://pastefs.com
+‎‎
