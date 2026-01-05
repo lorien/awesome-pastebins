@@ -1,6 +1,9 @@
 name: Services Monitor
 
 on:
+  push:
+      branches:
+        - '**'
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight
   workflow_dispatch: # Allows manual trigger
