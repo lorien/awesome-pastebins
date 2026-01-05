@@ -82,7 +82,6 @@ Non-authenticated users can create pastes.
 - https://bin.maple.rest
 - https://235523.xyz
 - https://jaw.gg
-- http://158.247.236.199:9999
 
 ## Authenticated Pastebins
 
