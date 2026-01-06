@@ -74,6 +74,14 @@ Non-authenticated users can create pastes.
 - https://gistpad.com
 - https://crow.ac
 - https://hastebin.dev
+- https://bin.bloerg.net
+- https://bin.lysator.liu.se
+- https://8n1.org
+- https://zigbin.io
+- https://bin.jarkon.fi
+- https://bin.maple.rest
+- https://235523.xyz
+- https://jaw.gg
 
 ## Authenticated Pastebins
 
