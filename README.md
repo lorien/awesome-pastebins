@@ -31,7 +31,6 @@ Non-authenticated users can create pastes.
 - https://bpa.st
 - https://paste.ofcode.org
 - https://paste.ee
-- https://dpaste.org
 - https://friendpaste.com
 - https://defuse.ca/pastebin.htm
 - https://dpaste.com
@@ -134,3 +133,4 @@ Dead pastebin services. All pastes are removed.
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
+- https://dpaste.org
