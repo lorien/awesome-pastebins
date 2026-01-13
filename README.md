@@ -42,7 +42,6 @@ Non-authenticated users can create pastes.
 - https://p.ip.fi
 - http://cutapaste.net
 - https://paste.sh
-- https://paste.jp
 - https://paste-bin.xyz
 - https://paste.debian.net
 - http://vpaste.net
@@ -135,3 +134,4 @@ Dead pastebin services. All pastes are removed.
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
 - https://dpaste.org (TEMPORARY SHUTDOWN)
+- https://paste.jp (MAYBE TEMPORARY)
