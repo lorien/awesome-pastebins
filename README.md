@@ -82,6 +82,7 @@ Non-authenticated users can create pastes.
 - https://jaw.gg
 - https://pastecode.ru
 - https://modernpaste.com (alias: 99paste.com)
+- https://pastee.dev
 
 ## Authenticated Pastebins
 
