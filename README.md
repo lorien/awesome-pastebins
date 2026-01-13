@@ -30,7 +30,6 @@ Non-authenticated users can create pastes.
 - https://pastebin.osuosl.org
 - https://bpa.st
 - https://paste.ofcode.org
-- https://paste.ee
 - https://friendpaste.com
 - https://defuse.ca/pastebin.htm
 - https://dpaste.com
@@ -105,6 +104,7 @@ Nobody can create pastes.
 - http://paste.pound-python.org
 - http://paste.frubar.net/
 - https://bitbin.it
+- https://paste.ee (TEMPORARILY READ-ONLY)
 
 ## Discontinued Pastebins
 
