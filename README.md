@@ -81,6 +81,7 @@ Non-authenticated users can create pastes.
 - https://bin.maple.rest
 - https://235523.xyz
 - https://jaw.gg
+- https://pastecode.ru
 
 ## Authenticated Pastebins
 
@@ -119,7 +120,6 @@ Dead pastebin services. All pastes are removed.
 - https://paste.scratchbook.ch
 - https://dumpz.org
 - http://paste.strictfp.com
-- https://pastecode.ru
 - https://apaste.info
 - https://pastesqf.com
 - http://sprunge.us
