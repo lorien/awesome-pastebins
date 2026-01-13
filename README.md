@@ -104,7 +104,7 @@ Nobody can create pastes.
 - http://paste.pound-python.org
 - http://paste.frubar.net/
 - https://bitbin.it
-- https://paste.ee (TEMPORARILY READ-ONLY)
+- https://paste.ee (TEMPORARILY)
 
 ## Discontinued Pastebins
 
@@ -133,5 +133,5 @@ Dead pastebin services. All pastes are removed.
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
-- https://dpaste.org (TEMPORARY SHUTDOWN)
-- https://paste.jp (MAYBE TEMPORARY)
+- https://dpaste.org (TEMPORARILY)
+- https://paste.jp (TEMPORARILY)
