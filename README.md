@@ -82,6 +82,7 @@ Non-authenticated users can create pastes.
 - https://235523.xyz
 - https://jaw.gg
 - https://pastecode.ru
+- https://modernpaste.com (alias: 99paste.com)
 
 ## Authenticated Pastebins
 
@@ -124,7 +125,6 @@ Dead pastebin services. All pastes are removed.
 - https://pastesqf.com
 - http://sprunge.us
 - https://pastecode.fr
-- https://99paste.com
 - https://nopaste.me
 - https://www.paste.lv
 - http://codepad.org
