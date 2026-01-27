@@ -82,6 +82,7 @@ Non-authenticated users can create pastes.
 - https://modernpaste.com (alias: 99paste.com)
 - https://pastee.dev
 - https://pastecn.com
+- https://paste.jp
 
 ## Authenticated Pastebins
 
@@ -134,5 +135,4 @@ Dead pastebin services. All pastes are removed.
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
 - https://dpaste.org (TEMPORARILY)
-- https://paste.jp (TEMPORARILY)
 - https://macrobin.co (TEMPORARILY)
