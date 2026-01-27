@@ -66,7 +66,6 @@ Non-authenticated users can create pastes.
 - https://paste.monster
 - https://snippet.host
 - https://xi.pe
-- https://macrobin.co
 - https://fragbin.com
 - https://gistpad.com
 - https://crow.ac
@@ -136,3 +135,4 @@ Dead pastebin services. All pastes are removed.
 - https://pastefs.com
 - https://dpaste.org (TEMPORARILY)
 - https://paste.jp (TEMPORARILY)
+- https://macrobin.co (TEMPORARILY)
