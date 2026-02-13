@@ -69,7 +69,6 @@ Non-authenticated users can create pastes.
 - https://macrobin.co
 - https://fragbin.com
 - https://gistpad.com
-- https://crow.ac
 - https://hastebin.dev
 - https://bin.bloerg.net
 - https://bin.lysator.liu.se
@@ -134,5 +133,6 @@ Dead pastebin services. All pastes are removed.
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
+- https://crow.ac
 - https://dpaste.org (TEMPORARILY)
 - https://paste.jp (TEMPORARILY)
