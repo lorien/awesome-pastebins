@@ -54,7 +54,6 @@ Non-authenticated users can create pastes.
 - https://tutpaste.com
 - https://pastebin.fi
 - https://nekobin.com
-- https://www.paste4btc.com
 - https://pastes.io (alias: pastebin.ai, pastesio.com, pastejustit.com)
 - https://paste.js.org
 - https://paste.mod.gg/
@@ -135,3 +134,4 @@ Dead pastebin services. All pastes are removed.
 - https://dpaste.org (CHECK LATER)
 - https://paste.jp (CHECK LATER)
 - http://vpaste.net (CHECK LATER)
+- https://www.paste4btc.com (CHECK LATER)
