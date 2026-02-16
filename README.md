@@ -24,7 +24,7 @@ Non-authenticated users can create pastes.
 - https://dotnetfiddle.net
 - https://notes.io
 - https://paste2.org
-- https://hastebin.com
+- https://www.toptal.com/developers/hastebin (alias: hastebin.com)
 - https://ivpaste.com
 - https://justpaste.me
 - https://pastebin.osuosl.org
