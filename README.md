@@ -66,7 +66,6 @@ Non-authenticated users can create pastes.
 - https://fragbin.com
 - https://gistpad.com
 - https://hastebin.dev
-- https://bin.bloerg.net
 - https://bin.lysator.liu.se
 - https://8n1.org
 - https://zigbin.io
@@ -135,3 +134,4 @@ Dead pastebin services. All pastes are removed.
 - https://www.paste4btc.com (CHECK LATER)
 - https://paste.mod.gg (CHECK LATER)
 - https://macrobin.co (CHECK LATER)
+- https://bin.bloerg.net (CHECK LATER)
