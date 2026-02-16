@@ -56,7 +56,6 @@ Non-authenticated users can create pastes.
 - https://nekobin.com
 - https://pastes.io (alias: pastebin.ai, pastesio.com, pastejustit.com)
 - https://paste.js.org
-- https://paste.mod.gg/
 - https://paste.myst.rs (alias: paste.ax)
 - https://beanpaste.fun
 - https://rentry.co/
@@ -135,3 +134,4 @@ Dead pastebin services. All pastes are removed.
 - https://paste.jp (CHECK LATER)
 - http://vpaste.net (CHECK LATER)
 - https://www.paste4btc.com (CHECK LATER)
+- https://paste.mod.gg (CHECK LATER)
