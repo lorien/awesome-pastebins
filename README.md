@@ -44,7 +44,6 @@ Non-authenticated users can create pastes.
 - https://paste.sh
 - https://paste-bin.xyz
 - https://paste.debian.net
-- http://vpaste.net
 - http://paste.org.ru
 - https://quickhighlighter.com
 - https://commie.io
@@ -104,7 +103,7 @@ Nobody can create pastes.
 - http://paste.pound-python.org
 - http://paste.frubar.net/
 - https://bitbin.it
-- https://paste.ee (TEMPORARILY)
+- https://paste.ee (CHECK LATER)
 
 ## Discontinued Pastebins
 
@@ -133,5 +132,6 @@ Dead pastebin services. All pastes are removed.
 - https://paste.mozilla.org (alias: pastebin.mozilla.org)
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
-- https://dpaste.org (TEMPORARILY)
-- https://paste.jp (TEMPORARILY)
+- https://dpaste.org (CHECK LATER)
+- https://paste.jp (CHECK LATER)
+- http://vpaste.net (CHECK LATER)
