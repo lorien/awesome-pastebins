@@ -69,7 +69,6 @@ Non-authenticated users can create pastes.
 - https://macrobin.co
 - https://fragbin.com
 - https://gistpad.com
-- https://crow.ac
 - https://hastebin.dev
 - https://bin.bloerg.net
 - https://bin.lysator.liu.se
