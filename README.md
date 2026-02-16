@@ -70,7 +70,6 @@ Non-authenticated users can create pastes.
 - https://8n1.org
 - https://zigbin.io
 - https://bin.jarkon.fi
-- https://bin.maple.rest
 - https://235523.xyz
 - https://jaw.gg
 - https://pastecode.ru
