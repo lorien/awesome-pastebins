@@ -76,6 +76,7 @@ Non-authenticated users can create pastes.
 - https://modernpaste.com (alias: 99paste.com)
 - https://pastee.dev
 - https://pastecn.com
+- http://paste.strictfp.com
 
 ## Authenticated Pastebins
 
@@ -114,7 +115,6 @@ Dead pastebin services. All pastes are removed.
 - https://pasteall.org
 - https://paste.scratchbook.ch
 - https://dumpz.org
-- http://paste.strictfp.com
 - https://apaste.info
 - https://pastesqf.com
 - http://sprunge.us
