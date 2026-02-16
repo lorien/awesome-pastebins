@@ -135,3 +135,4 @@ Dead pastebin services. All pastes are removed.
 - https://paste.mod.gg (CHECK LATER)
 - https://macrobin.co (CHECK LATER)
 - https://bin.bloerg.net (CHECK LATER)
+- https://bin.maple.rest (CHECK LATER)
