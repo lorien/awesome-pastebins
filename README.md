@@ -78,6 +78,8 @@ Non-authenticated users can create pastes.
 - https://pastecn.com
 - http://paste.strictfp.com
 - https://paste.jp
+- http://vpaste.net
+- https://bin.bloerg.net
 
 ## Authenticated Pastebins
 
@@ -129,9 +131,7 @@ Dead pastebin services. All pastes are removed.
 - https://ide.geeksforgeeks.org
 - https://pastefs.com
 - https://dpaste.org (CHECK LATER)
-- http://vpaste.net (CHECK LATER)
 - https://www.paste4btc.com (CHECK LATER)
 - https://paste.mod.gg (CHECK LATER)
 - https://macrobin.co (CHECK LATER)
-- https://bin.bloerg.net (CHECK LATER)
 - https://bin.maple.rest (CHECK LATER)
