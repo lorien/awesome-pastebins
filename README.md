@@ -80,7 +80,8 @@ Non-authenticated users can create pastes.
 - https://paste.jp
 - http://vpaste.net
 - https://bin.bloerg.net
-
+- https://crypticbin.com
+  
 ## Authenticated Pastebins
 
 Only authenticated users can create pastes.
