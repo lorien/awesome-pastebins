@@ -82,6 +82,7 @@ Non-authenticated users can create pastes.
 - https://bin.bloerg.net
 - https://crypticbin.com
 - https://pastey.gg
+- https://cv.cm
   
 ## Authenticated Pastebins
 
