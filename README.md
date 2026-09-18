@@ -17,6 +17,7 @@ Non-authenticated users can create pastes.
 - https://pastelink.net
 - https://codebeautify.org
 - https://controlc.com (alias: pasted.co, tny.cz)
+- https://cv.cm
 - https://ideone.com
 - http://paste.rohitab.com
 - https://codeshare.io
