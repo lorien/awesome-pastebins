@@ -83,6 +83,7 @@ Non-authenticated users can create pastes.
 - https://crypticbin.com
 - https://pastey.gg
 - https://www.primenotepad.com/share-text
+- https://pasteithere.com
 - https://dochost.io
 - https://paste01.pythonanywhere.com
   
