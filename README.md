@@ -84,6 +84,8 @@ Non-authenticated users can create pastes.
 - https://pastey.gg
 - https://www.primenotepad.com/share-text
 - https://pasteithere.com
+- https://dochost.io
+- https://paste01.pythonanywhere.com
   
 ## Authenticated Pastebins
 
