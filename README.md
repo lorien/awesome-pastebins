@@ -9,6 +9,7 @@ You are welcome to join Telegram chat groups to talk about web scraping and data
 Non-authenticated users can create pastes.
 
 - https://pastebin.com
+- https://pastesite.com
 - https://justpaste.it
 - https://jsfiddle.net
 - https://paste.centos.org
