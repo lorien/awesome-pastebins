@@ -98,6 +98,7 @@ Only authenticated users can create pastes.
 - https://invent.kde.org/explore/snippets
 - https://snipplr.com
 - http://paste.xinu.at
+- https://sniptide.com
 
 ## Read-only Pastebins
 
