@@ -2,8 +2,6 @@
 
 This document contains list of pastebin services organized by categories. The list contains only unencrypted pastebins. In other words, you can scrape some data from pastebins in this list.
 
-Join Russian Telegram chat group [@grablab_ru](https://t.me/grablab_ru) to talk about web scraping and data processing.
-
 ## Public Pastebins
 
 Non-authenticated users can create pastes.
