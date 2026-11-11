@@ -86,6 +86,7 @@ Non-authenticated users can create pastes.
 - https://pasteithere.com
 - https://dochost.io
 - https://paste01.pythonanywhere.com
+- https://pastesite.com
   
 ## Authenticated Pastebins
 
