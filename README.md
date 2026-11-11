@@ -2,14 +2,13 @@
 
 This document contains list of pastebin services organized by categories. The list contains only unencrypted pastebins. In other words, you can scrape some data from pastebins in this list.
 
-You are welcome to join Telegram chat groups to talk about web scraping and data processing: [@grablab](https://t.me/grablab) (English), [@grablab_ru](https://t.me/grablab_ru) (Russian).
+Join Russian Telegram chat group [@grablab_ru](https://t.me/grablab_ru) to talk about web scraping and data processing.
 
 ## Public Pastebins
 
 Non-authenticated users can create pastes.
 
 - https://pastebin.com
-- https://pastesite.com
 - https://justpaste.it
 - https://jsfiddle.net
 - https://paste.centos.org
@@ -87,6 +86,7 @@ Non-authenticated users can create pastes.
 - https://pasteithere.com
 - https://dochost.io
 - https://paste01.pythonanywhere.com
+- https://pastesite.com
   
 ## Authenticated Pastebins
 
@@ -99,6 +99,7 @@ Only authenticated users can create pastes.
 - https://invent.kde.org/explore/snippets
 - https://snipplr.com
 - http://paste.xinu.at
+- https://sniptide.com
 
 ## Read-only Pastebins
 
