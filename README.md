@@ -85,6 +85,7 @@ Non-authenticated users can create pastes.
 - https://dochost.io
 - https://paste01.pythonanywhere.com
 - https://pastesite.com
+- https://birta.dev/tools/html-to-link
   
 ## Authenticated Pastebins
 
